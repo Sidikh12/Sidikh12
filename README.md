@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siharold)](https://github.com/sidikh12/github-readme-stats)
 
 
 <!--
