@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Harold stats](https://github-readme-stats.vercel.app/api?username=sidikh12&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidikh12)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siharold)](https://github.com/sidikh12/github-readme-stats)
 
 
 <!--
